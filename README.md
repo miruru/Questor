@@ -1,38 +1,38 @@
-Usuário de acesso
+**Usuário de acesso:** 
 {
   "email": "teste@teste.com",
   "password": "123456"
 }
 
-Informações Técnicas
+### Informações Técnicas
 
-Base de dados
-Bd: SqLite
-Local: Pasta DB da raiz
+**Base de dados**
+- Bd: SqLite
+- Local: Pasta DB da raiz
 
-Linguagem
-C#
-.Net 8
-WebApi
+**Linguagem**
+- C#
+- .Net 8
+- WebApi
 
-Bibliotecas
-AutoMapper
-EntityFramework
-FluentValidation
+**Bibliotecas**
+- AutoMapper
+- EntityFramework
+- FluentValidation
 
-Estrutura
-Camadas
-Clean Architecture
+**Estrutura**
+- Camadas
+- Clean Architecture
 
-Documentação
-Swagger
+**Documentação**
+- Swagger
 
-Proteção
-Bearer
-Jwt
+**Proteção**
+- Bearer
+- Jwt
 
-Diversos
-Solid
-DI
-Dto
-Unitofwork
+**Diversos**
+- Solid
+- DI
+- Dto
+- Unitofwork
