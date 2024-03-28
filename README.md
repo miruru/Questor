@@ -36,3 +36,4 @@
 - DI
 - Dto
 - Unitofwork
+- Middleware of Exceptions
